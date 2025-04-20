@@ -1,4 +1,4 @@
-# ScihubNow
+# ScihubNow - Bookmarklet
 One click solution to opening papers in Scihub - A bookmarklet
 
 Make a new bookmark and title it whatever you want. Copy and paste the js code into the "URL" and save. On the webpage that has the doi, click on the bookmark to open the paper in another tab. 
